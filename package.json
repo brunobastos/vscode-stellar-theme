@@ -1,0 +1,41 @@
+{
+    "name": "stellar-theme",
+    "displayName": "Stellar Theme",
+    "description": "A minimalistic and elegant dark blue theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "author": {
+        "name": "Bruno Bastos"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brunobastos/vscode-stellar-theme.git"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#d3ba85",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/brunobastos/vscode-stellar-theme/master/README.md",
+	"keywords": [
+		"dark",
+		"theme",
+		"stellar",
+        "minimalistic",
+        "blue"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stellar Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stellar-theme-color-theme.json"
+            }
+        ]
+    }
+}
