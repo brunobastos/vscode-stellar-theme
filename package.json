@@ -12,6 +12,7 @@
     "author": {
         "name": "Bruno Bastos"
     },
+    "publisher": "brunobastos",
     "repository": {
         "type": "git",
         "url": "https://github.com/brunobastos/vscode-stellar-theme.git"
