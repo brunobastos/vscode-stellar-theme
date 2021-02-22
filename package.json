@@ -2,7 +2,7 @@
     "name": "stellar-theme",
     "displayName": "Stellar Theme",
     "description": "A minimalistic and elegant dark blue theme for Visual Studio Code.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.0.0"
     },
@@ -19,7 +19,7 @@
     },
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#d3ba85",
+        "color": "#1a2835",
         "theme": "dark"
     },
     "homepage": "https://github.com/brunobastos/vscode-stellar-theme/blob/master/README.md",
