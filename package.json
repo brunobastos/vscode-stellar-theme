@@ -22,13 +22,13 @@
         "theme": "dark"
     },
     "homepage": "https://github.com/brunobastos/vscode-stellar-theme/blob/master/README.md",
-	"keywords": [
-		"dark",
-		"theme",
-		"stellar",
+    "keywords": [
+        "dark",
+        "theme",
+        "stellar",
         "minimalistic",
         "blue"
-	],
+    ],
     "contributes": {
         "themes": [
             {
