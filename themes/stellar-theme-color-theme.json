@@ -457,6 +457,7 @@
 		{
 			"scope": [
 				"string",
+				"constant.numeric.css",
 			],
 			"settings": {
 				"foreground": "#D3BA85"
@@ -480,7 +481,7 @@
 				"keyword.operator.quantifier.regexp",
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#CDCDCD"
 			}
 		},
 		{
@@ -496,6 +497,28 @@
 			],
 			"settings": {
 				"foreground": "#F3CA05"
+			}
+		},
+		{
+			"scope": [
+				"support.type.property-name.css",
+				"meta.property-name.css",
+				"support.type.property-name"
+			],
+			"settings": {
+				"foreground": "#9CDCFE",
+				"fontStyle": "",
+			}
+		},
+		{
+			"scope": [
+				"keyword.other.unit.px.css",
+				"meta.property-value.css",
+				"keyword.other.unit",
+				"meta.property-list.css"
+			],
+			"settings": {
+				"foreground": "#CDCDCD",
 			}
 		},
 		{
