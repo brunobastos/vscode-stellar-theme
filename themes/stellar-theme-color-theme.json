@@ -309,6 +309,13 @@
 		{
 			"scope": [
 				"entity.name.tag.css",
+			],
+			"settings": {
+				"foreground": "#3DB8FF"
+			}
+		},
+		{
+			"scope": [
 				"entity.other.attribute-name",
 				"entity.other.attribute-name.class.css",
 				"entity.other.attribute-name.class.mixin.css",
@@ -321,7 +328,7 @@
 				"entity.other.attribute-name.scss",
 			],
 			"settings": {
-				"foreground": "#3DB8FF"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
