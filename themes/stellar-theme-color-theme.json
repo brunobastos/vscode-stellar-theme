@@ -569,7 +569,8 @@
 				"variable",
 				"meta.definition.variable.name",
 				"support.variable",
-				"entity.name.variable"
+				"entity.name.variable",
+				"constant.character.escape",
 			],
 			"settings": {
 				"foreground": "#CDCDCD"
@@ -580,7 +581,6 @@
 				"entity.name.function",
 				"support.function",
 				"support.constant.handlebars",
-				"constant.character.escape",
 			],
 			"settings": {
 				"foreground": "#9CDCFE"
