@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [0.0.3]
 - Removed duplicate entries.
-- Adjusted CSS colors.
+- Adjusted colors.
 - Updated screenshot.
 
 ## [0.0.2]
