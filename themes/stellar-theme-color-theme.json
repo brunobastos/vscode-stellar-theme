@@ -84,31 +84,9 @@
 			}
 		},
 		{
-			"scope": "entity.name.tag.css",
-			"settings": {
-				"foreground": "#D7BA7D"
-			}
-		},
-		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"foreground": "#9CDCFE"
-			}
-		},
-		{
-			"scope": [
-				"entity.other.attribute-name.class.css",
-				"entity.other.attribute-name.class.mixin.css",
-				"entity.other.attribute-name.id.css",
-				"entity.other.attribute-name.parent-selector.css",
-				"entity.other.attribute-name.pseudo-class.css",
-				"entity.other.attribute-name.pseudo-element.css",
-				"source.css.less entity.other.attribute-name.id",
-				"entity.other.attribute-name.attribute.scss",
-				"entity.other.attribute-name.scss"
-			],
-			"settings": {
-				"foreground": "#D7BA7D"
 			}
 		},
 		{
@@ -457,21 +435,9 @@
 			}
 		},
 		{
-			"scope": "keyword.operator.quantifier.regexp",
-			"settings": {
-				"foreground": "#D7BA7D"
-			}
-		},
-		{
 			"scope": "constant.character",
 			"settings": {
 				"foreground": "#569CD6"
-			}
-		},
-		{
-			"scope": "constant.character.escape",
-			"settings": {
-				"foreground": "#D7BA7D"
 			}
 		},
 		{
@@ -521,7 +487,26 @@
 				"markup.inline.raw"
 			],
 			"settings": {
-				"foreground": "#D39E85"
+				"foreground": "#fff"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag.css",
+				"entity.other.attribute-name.class.css",
+				"entity.other.attribute-name.class.mixin.css",
+				"entity.other.attribute-name.id.css",
+				"entity.other.attribute-name.parent-selector.css",
+				"entity.other.attribute-name.pseudo-class.css",
+				"entity.other.attribute-name.pseudo-element.css",
+				"source.css.less entity.other.attribute-name.id",
+				"entity.other.attribute-name.attribute.scss",
+				"entity.other.attribute-name.scss",
+				"keyword.operator.quantifier.regexp",
+				"constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#3DB8FF"
 			}
 		},
 		{
@@ -631,7 +616,7 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#FFCC00"
+				"foreground": "#F3CA05"
 			}
 		},
 		{
