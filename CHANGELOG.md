@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.0.4]
+- Fixed CSS colors.
+
 ## [0.0.3]
 - Removed duplicate entries.
 - Adjusted colors.
